@@ -1,0 +1,14 @@
+#main{
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr;
+    
+}
+#main img{
+    height: 300px;
+    width: 300px;
+    gap: 50px;
+    justify-content: space-around;
+    padding: 10px;
+    margin-left: 60px;
+   
+}

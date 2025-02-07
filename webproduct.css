@@ -1,0 +1,19 @@
+#three{
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr;
+    background-color: lightgreen;
+    height: 500px;
+}
+.four img{
+    height: 300px;
+    width: 300px;
+    gap: 50px;
+    justify-content: space-around;
+    padding: 10px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+h3{
+    margin-left: 80px;
+    color: brown;
+}

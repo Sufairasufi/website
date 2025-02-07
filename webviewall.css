@@ -1,0 +1,12 @@
+.row{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+div img{
+    height: 250px;
+    width: 400px;
+
+}
+.card-title{
+    color: brown;
+}
